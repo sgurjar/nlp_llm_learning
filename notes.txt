@@ -1,0 +1,5 @@
+https://huggingface.co/learn/nlp-course/chapter1/1
+
+https://course.fast.ai/
+
+https://www.coursera.org/specializations/natural-language-processing
